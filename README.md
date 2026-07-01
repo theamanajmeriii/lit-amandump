@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0031-next-permutation) |
+| [0054-spiral-matrix](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0075-sort-colors) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -41,5 +42,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0073-set-matrix-zeroes) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
