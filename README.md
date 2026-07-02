@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0075-sort-colors) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0645-set-mismatch) |
+| [0867-transpose-matrix](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0867-transpose-matrix) |
 ## Two Pointers
 |  |
 | ------- |
@@ -48,11 +49,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0073-set-matrix-zeroes) |
+| [0867-transpose-matrix](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0867-transpose-matrix) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0059-spiral-matrix-ii) |
+| [0867-transpose-matrix](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0867-transpose-matrix) |
 ## Math
 |  |
 | ------- |
