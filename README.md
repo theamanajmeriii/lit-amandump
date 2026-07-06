@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0128-longest-consecutive-sequence) |
 | [0239-sliding-window-maximum](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0239-sliding-window-maximum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0645-set-mismatch) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0128-longest-consecutive-sequence) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0645-set-mismatch) |
 ## Bit Manipulation
@@ -86,4 +88,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0239-sliding-window-maximum) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
