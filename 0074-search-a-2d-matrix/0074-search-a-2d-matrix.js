@@ -4,32 +4,32 @@
  * @return {boolean}
  */
 var searchMatrix = function(matrix, target) {
-     for (let i = 0; i < matrix.length; i++) {
+    let m=matrix.length;
+    let n=matrix[0].length
+    let low=0;
+    let high=m*n-1
 
-        // Check if target lies in this row
-        if (matrix[i][0] <= target && target <= matrix[i][matrix[0].length - 1]) {
+    while(low<=high){
+        let mid=Math.floor((low+high)/2);
+        let row=Math.floor(mid/n);
+        let col=mid%n;
+        //conditon equals to target
+        if(matrix[row][col]===target){
+            return true;
+        }
 
-            let left = 0;
-            let right = matrix[0].length - 1;
+        //condition greater then
+        else if(matrix[row][col]<target){
+            low=mid+1
+        }
 
-            while (left <= right) {
-
-                let mid = Math.floor((left + right) / 2);
-
-                if (matrix[i][mid] === target) {
-                    return true;
-                }
-
-                if (matrix[i][mid] < target) {
-                    left = mid + 1;
-                } else {
-                    right = mid - 1;
-                }
-            }
+        //condition which is smaller then
+        else {
+            high=mid-1;
         }
     }
-
     return false;
+     
 };
 
 
