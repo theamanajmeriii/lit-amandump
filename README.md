@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0645-set-mismatch](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0645-set-mismatch) |
 | [0867-transpose-matrix](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0867-transpose-matrix) |
+| [1200-minimum-absolute-difference](https://github.com/theamanajmeriii/lit-amandump-/tree/master/1200-minimum-absolute-difference) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/theamanajmeriii/lit-amandump-/tree/master/2016-maximum-difference-between-increasing-elements) |
 ## Two Pointers
 |  |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0645-set-mismatch](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0645-set-mismatch) |
+| [1200-minimum-absolute-difference](https://github.com/theamanajmeriii/lit-amandump-/tree/master/1200-minimum-absolute-difference) |
 ## Greedy
 |  |
 | ------- |
