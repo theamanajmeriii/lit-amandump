@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0645-set-mismatch](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0645-set-mismatch) |
+| [0769-max-chunks-to-make-sorted](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0769-max-chunks-to-make-sorted) |
 | [0867-transpose-matrix](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0867-transpose-matrix) |
 | [0973-k-closest-points-to-origin](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0973-k-closest-points-to-origin) |
 | [1200-minimum-absolute-difference](https://github.com/theamanajmeriii/lit-amandump-/tree/master/1200-minimum-absolute-difference) |
@@ -44,12 +45,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0645-set-mismatch](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0645-set-mismatch) |
+| [0769-max-chunks-to-make-sorted](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0769-max-chunks-to-make-sorted) |
 | [0973-k-closest-points-to-origin](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0973-k-closest-points-to-origin) |
 | [1200-minimum-absolute-difference](https://github.com/theamanajmeriii/lit-amandump-/tree/master/1200-minimum-absolute-difference) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0011-container-with-most-water) |
+| [0769-max-chunks-to-make-sorted](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0769-max-chunks-to-make-sorted) |
 ## Hash Table
 |  |
 | ------- |
@@ -131,4 +134,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0973-k-closest-points-to-origin) |
+## Stack
+|  |
+| ------- |
+| [0769-max-chunks-to-make-sorted](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0769-max-chunks-to-make-sorted) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0769-max-chunks-to-make-sorted](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0769-max-chunks-to-make-sorted) |
 <!---LeetCode Topics End-->
