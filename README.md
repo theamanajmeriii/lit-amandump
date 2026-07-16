@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0215-kth-largest-element-in-an-array) |
+| [0242-valid-anagram](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0242-valid-anagram) |
 | [0645-set-mismatch](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0645-set-mismatch) |
 | [0769-max-chunks-to-make-sorted](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0769-max-chunks-to-make-sorted) |
 | [0973-k-closest-points-to-origin](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0973-k-closest-points-to-origin) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0128-longest-consecutive-sequence) |
+| [0242-valid-anagram](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0242-valid-anagram) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0525-contiguous-array](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0525-contiguous-array) |
 | [0645-set-mismatch](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0645-set-mismatch) |
@@ -148,4 +150,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0525-contiguous-array](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0525-contiguous-array) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
