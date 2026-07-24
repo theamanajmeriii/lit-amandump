@@ -11,28 +11,17 @@
  * @return {ListNode}
  */
 var middleNode = function(head) {
+    let slow=head;
+    let fast=head;
 
-    let temp = head;
-    let count = 0;
-
-    // Count the nodes
-    while (temp != null) {
-        count++;
-        temp = temp.next;
+    while(fast!=null && fast.next!=null){
+        //one time
+        slow=slow.next;
+        //two time
+        fast=fast.next.next
+        
     }
 
-    // Find middle index
-    let mid = Math.floor(count / 2);
+    return slow
 
-    // Start again from head
-    temp = head;
-
-    // Move temp to the middle
-    while (mid > 0) {
-        temp = temp.next;
-        mid--;
-    }
-
-    // Return the middle node
-    return temp;
 };
