@@ -9,26 +9,40 @@
  * @param {ListNode} head
  * @return {number}
  */
+
 var pairSum = function(head) {
 
-let temp=head;
-let arr=[];
+    let stack = [];
+    let temp = head;
 
-while(temp!=null){
-    arr.push(temp.val);
-    temp = temp.next;
-}
+    // Count nodes
+    let n = 0;
+    while (temp) {
+        n++;
+        temp = temp.next;
+    }
 
-let i = 0;
-let j = arr.length - 1;
-let ans = 0;
+    let mid = n / 2;
 
-while(i < j){
-    ans = Math.max(ans, arr[i] + arr[j]);
-    i++;
-    j--;
-}
+    temp = head;
 
-return ans;
-    
+    // Push first half
+    for (let i = 0; i < mid; i++) {
+        stack.push(temp.val);
+        temp = temp.next;
+    }
+
+    let max = 0;
+
+    // Traverse second half
+    while (temp) {
+
+        let top = stack.pop();
+
+        max = Math.max(max, top + temp.val);
+
+        temp = temp.next;
+    }
+
+    return max;
 };
