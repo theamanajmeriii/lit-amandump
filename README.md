@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0088-merge-sorted-array) |
+| [0141-linked-list-cycle](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0141-linked-list-cycle) |
 | [0876-middle-of-the-linked-list](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0876-middle-of-the-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/theamanajmeriii/lit-amandump-/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Sorting
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0128-longest-consecutive-sequence) |
+| [0141-linked-list-cycle](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0141-linked-list-cycle) |
 | [0149-max-points-on-a-line](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0149-max-points-on-a-line) |
 | [0242-valid-anagram](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0264-ugly-number-ii) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0021-merge-two-sorted-lists) |
+| [0141-linked-list-cycle](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0141-linked-list-cycle) |
 | [0876-middle-of-the-linked-list](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0876-middle-of-the-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/theamanajmeriii/lit-amandump-/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
