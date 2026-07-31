@@ -10,20 +10,19 @@
  * @return {ListNode}
  */
 var reverseList = function(head) {
-    //using brute force method stack
-    let dummy= new ListNode(-1);
-    let current = dummy;
-    let stack = [];
-    while(head!=null){
-        stack.push(head.val)
-        head=head.next
-    }
+    //this time we goin to reverse the linked list
+    //using current previous next technique
 
-    while(stack.length>0){
-        current.next= new ListNode(stack.pop());
-        current=current.next
+    let nextNode=null
+    let prevNode=null;
+    let currNode=head;
+    while(currNode!=null){
+        nextNode=currNode.next;
+        currNode.next=prevNode;
+        prevNode=currNode
+        currNode=nextNode
     }
-
-    return dummy.next
+    head=prevNode
+    return head
     
 };
