@@ -196,4 +196,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0206-reverse-linked-list) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/theamanajmeriii/lit-amandump-/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
