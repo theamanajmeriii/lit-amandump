@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-car-fleet](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0853-car-fleet) |
 | [0901-online-stock-span](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0901-online-stock-span) |
 | [0946-validate-stack-sequences](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0946-validate-stack-sequences) |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/theamanajmeriii/lit-amandump-/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/theamanajmeriii/lit-amandump-/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/theamanajmeriii/lit-amandump-/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/theamanajmeriii/lit-amandump-/tree/master/2390-removing-stars-from-a-string) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0336-palindrome-pairs](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0336-palindrome-pairs) |
 | [0394-decode-string](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0394-decode-string) |
 | [0844-backspace-string-compare](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0844-backspace-string-compare) |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/theamanajmeriii/lit-amandump-/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [2390-removing-stars-from-a-string](https://github.com/theamanajmeriii/lit-amandump-/tree/master/2390-removing-stars-from-a-string) |
 ## Trie
 |  |
