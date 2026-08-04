@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0225-implement-stack-using-queues) |
 | [0239-sliding-window-maximum](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0239-sliding-window-maximum) |
 ## Sliding Window
 |  |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0496-next-greater-element-i) |
 | [0769-max-chunks-to-make-sorted](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0769-max-chunks-to-make-sorted) |
 | [0844-backspace-string-compare](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0844-backspace-string-compare) |
@@ -236,4 +238,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1122-relative-sort-array](https://github.com/theamanajmeriii/lit-amandump-/tree/master/1122-relative-sort-array) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
