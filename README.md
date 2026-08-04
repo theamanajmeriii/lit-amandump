@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0769-max-chunks-to-make-sorted](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0769-max-chunks-to-make-sorted) |
 | [0867-transpose-matrix](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0867-transpose-matrix) |
 | [0973-k-closest-points-to-origin](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0973-k-closest-points-to-origin) |
+| [1122-relative-sort-array](https://github.com/theamanajmeriii/lit-amandump-/tree/master/1122-relative-sort-array) |
 | [1200-minimum-absolute-difference](https://github.com/theamanajmeriii/lit-amandump-/tree/master/1200-minimum-absolute-difference) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/theamanajmeriii/lit-amandump-/tree/master/2016-maximum-difference-between-increasing-elements) |
 ## Two Pointers
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0645-set-mismatch) |
 | [0769-max-chunks-to-make-sorted](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0769-max-chunks-to-make-sorted) |
 | [0973-k-closest-points-to-origin](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0973-k-closest-points-to-origin) |
+| [1122-relative-sort-array](https://github.com/theamanajmeriii/lit-amandump-/tree/master/1122-relative-sort-array) |
 | [1200-minimum-absolute-difference](https://github.com/theamanajmeriii/lit-amandump-/tree/master/1200-minimum-absolute-difference) |
 ## Greedy
 |  |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0525-contiguous-array) |
 | [0645-set-mismatch](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0645-set-mismatch) |
+| [1122-relative-sort-array](https://github.com/theamanajmeriii/lit-amandump-/tree/master/1122-relative-sort-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -221,4 +224,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/theamanajmeriii/lit-amandump-/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1683-invalid-tweets](https://github.com/theamanajmeriii/lit-amandump-/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/theamanajmeriii/lit-amandump-/tree/master/1757-recyclable-and-low-fat-products) |
+## Counting Sort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/theamanajmeriii/lit-amandump-/tree/master/1122-relative-sort-array) |
+## Quicksort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/theamanajmeriii/lit-amandump-/tree/master/1122-relative-sort-array) |
+## Bubble Sort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/theamanajmeriii/lit-amandump-/tree/master/1122-relative-sort-array) |
 <!---LeetCode Topics End-->
