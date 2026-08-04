@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/theamanajmeriii/lit-amandump-/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/theamanajmeriii/lit-amandump-/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/theamanajmeriii/lit-amandump-/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1544-make-the-string-great](https://github.com/theamanajmeriii/lit-amandump-/tree/master/1544-make-the-string-great) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/theamanajmeriii/lit-amandump-/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/theamanajmeriii/lit-amandump-/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/theamanajmeriii/lit-amandump-/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/theamanajmeriii/lit-amandump-/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/theamanajmeriii/lit-amandump-/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+| [1544-make-the-string-great](https://github.com/theamanajmeriii/lit-amandump-/tree/master/1544-make-the-string-great) |
 | [2390-removing-stars-from-a-string](https://github.com/theamanajmeriii/lit-amandump-/tree/master/2390-removing-stars-from-a-string) |
 ## Trie
 |  |
