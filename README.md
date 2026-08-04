@@ -253,10 +253,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/theamanajmeriii/lit-amandump-/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/theamanajmeriii/lit-amandump-/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
@@ -266,4 +268,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0070-climbing-stairs) |
+## Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
