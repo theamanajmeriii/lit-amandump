@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0048-rotate-image) |
+| [0070-climbing-stairs](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0070-climbing-stairs) |
 | [0149-max-points-on-a-line](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0149-max-points-on-a-line) |
 | [0264-ugly-number-ii](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0264-ugly-number-ii) |
 | [0793-preimage-size-of-factorial-zeroes-function](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0793-preimage-size-of-factorial-zeroes-function) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0264-ugly-number-ii](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0264-ugly-number-ii) |
 ## Queue
@@ -260,4 +262,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1971-find-if-path-exists-in-graph](https://github.com/theamanajmeriii/lit-amandump-/tree/master/1971-find-if-path-exists-in-graph) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
