@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0622-design-circular-queue](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0641-design-circular-deque) |
 | [0645-set-mismatch](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0735-asteroid-collision) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0225-implement-stack-using-queues) |
 | [0239-sliding-window-maximum](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0239-sliding-window-maximum) |
 | [0622-design-circular-queue](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0641-design-circular-deque) |
 | [0933-number-of-recent-calls](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0933-number-of-recent-calls) |
 ## Sliding Window
 |  |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0206-reverse-linked-list) |
 | [0622-design-circular-queue](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0641-design-circular-deque) |
 | [0876-middle-of-the-linked-list](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0876-middle-of-the-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/theamanajmeriii/lit-amandump-/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
@@ -300,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0225-implement-stack-using-queues) |
 | [0622-design-circular-queue](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0641-design-circular-deque) |
 | [0901-online-stock-span](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0933-number-of-recent-calls) |
 ## Depth-First Search
