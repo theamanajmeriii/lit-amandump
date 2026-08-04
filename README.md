@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0128-longest-consecutive-sequence) |
 | [0149-max-points-on-a-line](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0149-max-points-on-a-line) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0162-find-peak-element](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0162-find-peak-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0239-sliding-window-maximum) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0070-climbing-stairs) |
 | [0149-max-points-on-a-line](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0149-max-points-on-a-line) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0264-ugly-number-ii](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0264-ugly-number-ii) |
 | [0793-preimage-size-of-factorial-zeroes-function](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0793-preimage-size-of-factorial-zeroes-function) |
 | [0973-k-closest-points-to-origin](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0973-k-closest-points-to-origin) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0496-next-greater-element-i) |
