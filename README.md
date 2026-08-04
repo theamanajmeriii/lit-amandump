@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0011-container-with-most-water) |
 | [0402-remove-k-digits](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0402-remove-k-digits) |
 | [0769-max-chunks-to-make-sorted](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0769-max-chunks-to-make-sorted) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Hash Table
 |  |
 | ------- |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-car-fleet](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0853-car-fleet) |
 | [0901-online-stock-span](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0907-sum-of-subarray-minimums) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0946-validate-stack-sequences](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0946-validate-stack-sequences) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/theamanajmeriii/lit-amandump-/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/theamanajmeriii/lit-amandump-/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0402-remove-k-digits) |
 | [0844-backspace-string-compare](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0844-backspace-string-compare) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/theamanajmeriii/lit-amandump-/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/theamanajmeriii/lit-amandump-/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/theamanajmeriii/lit-amandump-/tree/master/2390-removing-stars-from-a-string) |
@@ -355,4 +358,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0084-largest-rectangle-in-histogram) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
