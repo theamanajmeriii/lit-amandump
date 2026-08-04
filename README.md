@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0769-max-chunks-to-make-sorted](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0769-max-chunks-to-make-sorted) |
 | [0844-backspace-string-compare](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0844-backspace-string-compare) |
 | [0853-car-fleet](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0853-car-fleet) |
+| [0901-online-stock-span](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0901-online-stock-span) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/theamanajmeriii/lit-amandump-/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Monotonic Stack
 |  |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0739-daily-temperatures) |
 | [0769-max-chunks-to-make-sorted](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0769-max-chunks-to-make-sorted) |
 | [0853-car-fleet](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0853-car-fleet) |
+| [0901-online-stock-span](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0901-online-stock-span) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0225-implement-stack-using-queues) |
+| [0901-online-stock-span](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0901-online-stock-span) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -286,4 +289,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0104-maximum-depth-of-binary-tree) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
