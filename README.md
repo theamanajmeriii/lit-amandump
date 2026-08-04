@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0071-simplify-path) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0225-implement-stack-using-queues) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0071-simplify-path) |
 | [0242-valid-anagram](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0242-valid-anagram) |
 | [0336-palindrome-pairs](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0336-palindrome-pairs) |
 | [0844-backspace-string-compare](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0844-backspace-string-compare) |
