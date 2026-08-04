@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0239-sliding-window-maximum) |
 | [0336-palindrome-pairs](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0336-palindrome-pairs) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0645-set-mismatch](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0645-set-mismatch) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0264-ugly-number-ii) |
 | [0336-palindrome-pairs](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0336-palindrome-pairs) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0525-contiguous-array) |
 | [0645-set-mismatch](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0645-set-mismatch) |
 ## Bit Manipulation
@@ -163,12 +165,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0496-next-greater-element-i) |
 | [0769-max-chunks-to-make-sorted](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0769-max-chunks-to-make-sorted) |
 | [0844-backspace-string-compare](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0844-backspace-string-compare) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/theamanajmeriii/lit-amandump-/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0496-next-greater-element-i) |
 | [0769-max-chunks-to-make-sorted](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0769-max-chunks-to-make-sorted) |
 ## Prefix Sum
 |  |
