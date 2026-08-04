@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0769-max-chunks-to-make-sorted](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0769-max-chunks-to-make-sorted) |
 | [0853-car-fleet](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0853-car-fleet) |
 | [0867-transpose-matrix](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0867-transpose-matrix) |
+| [0946-validate-stack-sequences](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0946-validate-stack-sequences) |
 | [0973-k-closest-points-to-origin](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0973-k-closest-points-to-origin) |
 | [1122-relative-sort-array](https://github.com/theamanajmeriii/lit-amandump-/tree/master/1122-relative-sort-array) |
 | [1200-minimum-absolute-difference](https://github.com/theamanajmeriii/lit-amandump-/tree/master/1200-minimum-absolute-difference) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0867-transpose-matrix) |
+| [0946-validate-stack-sequences](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0946-validate-stack-sequences) |
 ## Math
 |  |
 | ------- |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0844-backspace-string-compare) |
 | [0853-car-fleet](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0853-car-fleet) |
 | [0901-online-stock-span](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0901-online-stock-span) |
+| [0946-validate-stack-sequences](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0946-validate-stack-sequences) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/theamanajmeriii/lit-amandump-/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Monotonic Stack
 |  |
