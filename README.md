@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0225-implement-stack-using-queues) |
 | [0239-sliding-window-maximum](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0239-sliding-window-maximum) |
+| [0933-number-of-recent-calls](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0933-number-of-recent-calls) |
 ## Sliding Window
 |  |
 | ------- |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0225-implement-stack-using-queues) |
 | [0901-online-stock-span](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0901-online-stock-span) |
+| [0933-number-of-recent-calls](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0933-number-of-recent-calls) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -308,4 +310,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0901-online-stock-span) |
+| [0933-number-of-recent-calls](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
