@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0142-linked-list-cycle-ii) |
+| [0234-palindrome-linked-list](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0234-palindrome-linked-list) |
 | [0844-backspace-string-compare](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0876-middle-of-the-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/theamanajmeriii/lit-amandump-/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0225-implement-stack-using-queues) |
+| [0234-palindrome-linked-list](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0496-next-greater-element-i) |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0237-delete-node-in-a-linked-list) |
 | [0622-design-circular-queue](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0641-design-circular-deque) |
@@ -296,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0394-decode-string) |
 ## Database
 |  |
