@@ -1,29 +1,36 @@
-/**
- * Definition for singly-linked list.
- * function ListNode(val, next) {
- *     this.val = (val === undefined ? 0 : val);
- *     this.next = (next === undefined ? null : next);
- * }
- */
-
 var reverseBetween = function(head, left, right) {
-    if (!head || left === right) return head;
+    let dummy = new ListNode(-1);
+    dummy.next = head;
 
-    let dummy = new ListNode(0, head);
-    let prev = dummy;
+    // left se ek node pehle
+    let leftPrev = dummy;
 
     for (let i = 1; i < left; i++) {
-        prev = prev.next;
+        leftPrev = leftPrev.next;
     }
 
-    let curr = prev.next;
+    // jis node se reversal start hoga
+    let curr = leftPrev.next;
 
-    for (let i = 0; i < right - left; i++) {
-        let next = curr.next;
-        curr.next = next.next;
-        next.next = prev.next;
-        prev.next = next;
+    // old left node reversal ke baad tail banega
+    let leftNode = curr;
+
+    let prev = null;
+    let nextNode = null;
+
+    // left se right tak reverse
+    for (let i = 0; i < right - left + 1; i++) {
+        nextNode = curr.next;
+        curr.next = prev;
+        prev = curr;
+        curr = nextNode;
     }
+
+    // left side ko reversed part se connect
+    leftPrev.next = prev;
+
+    // reversed part ke tail ko remaining list se connect
+    leftNode.next = curr;
 
     return dummy.next;
 };
