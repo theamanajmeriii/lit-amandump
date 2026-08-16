@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/theamanajmeriii/lit-amandump/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0234-palindrome-linked-list) |
 | [0844-backspace-string-compare](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0876-middle-of-the-linked-list) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/theamanajmeriii/lit-amandump/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0242-valid-anagram) |
 | [0645-set-mismatch](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0645-set-mismatch) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/theamanajmeriii/lit-amandump/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0973-k-closest-points-to-origin) |
 ## Quickselect
@@ -287,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0092-reverse-linked-list-ii](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/theamanajmeriii/lit-amandump/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0234-palindrome-linked-list) |
@@ -389,4 +393,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/theamanajmeriii/lit-amandump-/tree/master/1021-remove-outermost-parentheses) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/theamanajmeriii/lit-amandump/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
