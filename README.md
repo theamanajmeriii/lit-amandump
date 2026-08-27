@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/theamanajmeriii/lit-amandump/tree/master/0032-longest-valid-parentheses) |
 | [0070-climbing-stairs](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/theamanajmeriii/lit-amandump/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0085-maximal-rectangle) |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/theamanajmeriii/lit-amandump/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0071-simplify-path) |
 | [0242-valid-anagram](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0242-valid-anagram) |
 | [0336-palindrome-pairs](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0336-palindrome-pairs) |
@@ -394,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/theamanajmeriii/lit-amandump/tree/master/0032-longest-valid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/theamanajmeriii/lit-amandump-/tree/master/1021-remove-outermost-parentheses) |
 ## Merge Sort
