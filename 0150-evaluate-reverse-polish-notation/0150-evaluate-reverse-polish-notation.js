@@ -1,19 +1,41 @@
+ /**
+ * @param {string[]} tokens
+ * @return {number}
+ */
+
 var evalRPN = function(tokens) {
     let stack = [];
 
-    for (let token of tokens) {
-        if (token === "+" || token === "-" || token === "*" || token === "/") {
-            let b = stack.pop();
-            let a = stack.pop();
+    for (let i = 0; i < tokens.length; i++) {
 
-            if (token === "+") stack.push(a + b);
-            else if (token === "-") stack.push(a - b);
-            else if (token === "*") stack.push(a * b);
-            else stack.push(Math.trunc(a / b));
-        } else {
-            stack.push(Number(token));
+        if (!isNaN(tokens[i])) {
+            stack.push(Number(tokens[i]));
+        } 
+        else {
+            let total;
+
+            let number1 = stack.pop();
+            let number2 = stack.pop();
+
+            if (tokens[i] === '+') {
+                total = number2 + number1;
+            }
+
+            if (tokens[i] === '-') {
+                total = number2 - number1;
+            }
+
+            if (tokens[i] === '/') {
+                total = Math.trunc(number2 / number1);
+            }
+
+            if (tokens[i] === '*') {
+                total = number2 * number1;
+            }
+
+            stack.push(total);
         }
     }
 
-    return stack.pop();
+    return stack[0];
 };
