@@ -2,27 +2,51 @@
  * @param {string} s
  * @return {number}
  */
+
 var longestValidParentheses = function(s) {
-    
-    let stack=[-1];
-    let maxLength=0;
+    let left=0;
+    let right=0;
+    let max=0;
 
     for(let i=0;i<s.length;i++){
         if(s[i]==='('){
-            stack.push(i);
-        } else{
-            stack.pop();    
-
-            if(stack.length===0){
-                stack.push(i)
-            }
-            else{
-                maxLength= Math.max(maxLength, i-stack[stack.length-1])
-            }
+            left++
+        }else{
+            right++
         }
-         
+
+        if(left===right){
+            max=Math.max(max,left+right)
+        }
+
+        if(right>left){
+            left=0;
+            right=0;
+        }
     }
 
-    return maxLength
-    
+    left=0;
+    right=0;
+
+    for(let i=s.length-1;i>=0;i--){
+
+        if(s[i]==='('){
+            left++
+        }else{
+            right++
+        }
+
+        if(left===right){
+            max=Math.max(max,left+right)
+        }
+
+        if(left>right){
+            left=0;
+            right=0;
+        }
+
+    }
+
+    return max
+   
 };
