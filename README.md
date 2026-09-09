@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0239-sliding-window-maximum) |
 | [0336-palindrome-pairs](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0336-palindrome-pairs) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/theamanajmeriii/lit-amandump/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0525-contiguous-array) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/theamanajmeriii/lit-amandump/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0242-valid-anagram) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/theamanajmeriii/lit-amandump/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0645-set-mismatch](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0645-set-mismatch) |
 | [0769-max-chunks-to-make-sorted](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0769-max-chunks-to-make-sorted) |
 | [0853-car-fleet](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0853-car-fleet) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0085-maximal-rectangle) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/theamanajmeriii/lit-amandump/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0867-transpose-matrix](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0867-transpose-matrix) |
 ## Simulation
 |  |
@@ -170,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0239-sliding-window-maximum) |
 | [0264-ugly-number-ii](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0264-ugly-number-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/theamanajmeriii/lit-amandump/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0973-k-closest-points-to-origin](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0973-k-closest-points-to-origin) |
 ## Monotonic Queue
 |  |
@@ -187,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/theamanajmeriii/lit-amandump/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0162-find-peak-element) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/theamanajmeriii/lit-amandump/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0540-single-element-in-a-sorted-array](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0793-preimage-size-of-factorial-zeroes-function](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0793-preimage-size-of-factorial-zeroes-function) |
 ## Divide and Conquer
