@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0907-sum-of-subarray-minimums) |
 | [0946-validate-stack-sequences](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0946-validate-stack-sequences) |
 | [0973-k-closest-points-to-origin](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0973-k-closest-points-to-origin) |
+| [1046-last-stone-weight](https://github.com/theamanajmeriii/lit-amandump/tree/master/1046-last-stone-weight) |
 | [1122-relative-sort-array](https://github.com/theamanajmeriii/lit-amandump-/tree/master/1122-relative-sort-array) |
 | [1200-minimum-absolute-difference](https://github.com/theamanajmeriii/lit-amandump-/tree/master/1200-minimum-absolute-difference) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/theamanajmeriii/lit-amandump-/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/theamanajmeriii/lit-amandump/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/theamanajmeriii/lit-amandump/tree/master/0451-sort-characters-by-frequency) |
 | [0973-k-closest-points-to-origin](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0973-k-closest-points-to-origin) |
+| [1046-last-stone-weight](https://github.com/theamanajmeriii/lit-amandump/tree/master/1046-last-stone-weight) |
 ## Monotonic Queue
 |  |
 | ------- |
