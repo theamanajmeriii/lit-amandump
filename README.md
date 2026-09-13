@@ -425,4 +425,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/theamanajmeriii/lit-amandump/tree/master/0451-sort-characters-by-frequency) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/theamanajmeriii/lit-amandump/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
