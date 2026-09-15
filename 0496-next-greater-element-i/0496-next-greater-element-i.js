@@ -1,18 +1,35 @@
-//review
+/**
+ * @param {number[]} nums1
+ * @param {number[]} nums2
+ * @return {number[]}
+ */
 var nextGreaterElement = function(nums1, nums2) {
-    let stack = [];
+    let stack=[];
     let map = new Map();
 
-    for (let num of nums2) {
-        while (stack.length && stack[stack.length - 1] < num) {
-            map.set(stack.pop(), num);
+    for(let i=nums2.length-1;i>=0;i--){
+
+        while(stack.length>0 && stack[stack.length-1]<=nums2[i]){
+            stack.pop();
         }
-        stack.push(num);
+
+
+        if(stack.length===0){
+            map.set(nums2[i],-1)
+        }else{
+            map.set(nums2[i], stack[stack.length-1])
+        }
+
+        stack.push(nums2[i])
+
+
     }
 
-    while (stack.length) {
-        map.set(stack.pop(), -1);
+    let ans=[];
+    for(num of nums1){
+        ans.push(map.get(num))
     }
 
-    return nums1.map(num => map.get(num));
+    return ans;
+    
 };
