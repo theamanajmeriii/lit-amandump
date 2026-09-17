@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/theamanajmeriii/lit-amandump/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/theamanajmeriii/lit-amandump/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0622-design-circular-queue](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0622-design-circular-queue) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/theamanajmeriii/lit-amandump/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0739-daily-temperatures) |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/theamanajmeriii/lit-amandump/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0739-daily-temperatures) |
 | [0769-max-chunks-to-make-sorted](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0769-max-chunks-to-make-sorted) |
 | [0853-car-fleet](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0853-car-fleet) |
