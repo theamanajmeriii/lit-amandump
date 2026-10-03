@@ -1,41 +1,69 @@
+/**
+ * @param {character[][]} matrix
+ * @return {number}
+ */
 var maximalRectangle = function(matrix) {
-    if (!matrix.length) return 0;
+    let rows=matrix.length;
+    let cols=matrix[0].length;
+    let heights= new Array(cols).fill(0);
+    let maxArea = 0; 
 
-    let cols = matrix[0].length;
-    let heights = new Array(cols).fill(0);
-    let maxArea = 0;
-
-    for (let row of matrix) {
-        for (let j = 0; j < cols; j++) {
-            heights[j] = row[j] === "1" ? heights[j] + 1 : 0;
+    for(let i=0;i<rows;i++){
+        for(let j=0;j<cols;j++){
+            if(matrix[i][j]==="1"){
+                heights[j]+=1
+            } else{
+                heights[j]=0
+            }
         }
+    
 
-        maxArea = Math.max(maxArea, largestRectangleArea(heights));
+    //function
+    let n= heights.length
+    let stack=[];
+    let left= new Array(n);
+    let right= new Array(n);
+
+    for(let i=0;i<n;i++){
+        while(stack.length>0 && heights[stack[stack.length-1]] > heights[i]){
+            stack.pop()
+        } 
+
+        if(stack.length===0){
+            left[i]=-1
+        } else{
+            left[i]=stack[stack.length-1]
+        }
+        stack.push(i)
     }
 
-    return maxArea;
+    stack=[];
+
+    for(let i=n-1;i>=0;i--){
+        while(stack.length>0 && heights[stack[stack.length-1]] >= heights[i]){
+            stack.pop()
+        } 
+
+        if(stack.length===0){
+            right[i]=n
+        } else{
+            right[i]= stack[stack.length-1]
+        }
+        stack.push(i)
+    }
+
+
+    for(let i=0;i<n;i++){
+        let width= right[i] - left[i] - 1;
+        let area = width * heights[i];
+
+         maxArea= Math.max(maxArea,area)
+    } 
+    } 
+
+    
+
+   return maxArea
+   
 };
 
-function largestRectangleArea(heights) {
-    let stack = [];
-    let maxArea = 0;
-    let arr = [...heights, 0];
-
-    for (let i = 0; i < arr.length; i++) {
-        while (
-            stack.length &&
-            arr[stack[stack.length - 1]] > arr[i]
-        ) {
-            let h = arr[stack.pop()];
-            let w = stack.length
-                ? i - stack[stack.length - 1] - 1
-                : i;
-
-            maxArea = Math.max(maxArea, h * w);
-        }
-
-        stack.push(i);
-    }
-
-    return maxArea;
-}
