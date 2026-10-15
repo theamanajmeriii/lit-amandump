@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0162-find-peak-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0239-sliding-window-maximum) |
+| [0283-move-zeroes](https://github.com/theamanajmeriii/lit-amandump/tree/master/0283-move-zeroes) |
 | [0336-palindrome-pairs](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0336-palindrome-pairs) |
 | [0347-top-k-frequent-elements](https://github.com/theamanajmeriii/lit-amandump/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/theamanajmeriii/lit-amandump/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/theamanajmeriii/lit-amandump/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/theamanajmeriii/lit-amandump/tree/master/0283-move-zeroes) |
 | [0844-backspace-string-compare](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0876-middle-of-the-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/theamanajmeriii/lit-amandump-/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
