@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/theamanajmeriii/lit-amandump/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/theamanajmeriii/lit-amandump/tree/master/0283-move-zeroes) |
+| [0443-string-compression](https://github.com/theamanajmeriii/lit-amandump/tree/master/0443-string-compression) |
 | [0844-backspace-string-compare](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0876-middle-of-the-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/theamanajmeriii/lit-amandump-/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0336-palindrome-pairs](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0336-palindrome-pairs) |
 | [0394-decode-string](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0402-remove-k-digits) |
+| [0443-string-compression](https://github.com/theamanajmeriii/lit-amandump/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/theamanajmeriii/lit-amandump/tree/master/0451-sort-characters-by-frequency) |
 | [0844-backspace-string-compare](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
