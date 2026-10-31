@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0070-climbing-stairs) |
 | [0149-max-points-on-a-line](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0172-factorial-trailing-zeroes](https://github.com/theamanajmeriii/lit-amandump/tree/master/0172-factorial-trailing-zeroes) |
 | [0264-ugly-number-ii](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0264-ugly-number-ii) |
 | [0793-preimage-size-of-factorial-zeroes-function](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0793-preimage-size-of-factorial-zeroes-function) |
 | [0973-k-closest-points-to-origin](https://github.com/theamanajmeriii/lit-amandump-/tree/master/0973-k-closest-points-to-origin) |
