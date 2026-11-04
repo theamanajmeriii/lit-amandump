@@ -6,6 +6,11 @@ where primary_flag='Y'
 union
 
 
-select employee_id,department_id from employee
-group by employee_id
-having count(*)=1
+SELECT employee_id, department_id
+FROM employee
+WHERE employee_id IN (
+    SELECT employee_id
+    FROM employee
+    GROUP BY employee_id
+    HAVING COUNT(*) = 1
+);
